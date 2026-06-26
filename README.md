@@ -1,24 +1,84 @@
-# Ahmed Roshdi
-**Systems Architect & Security Researcher | Linux OS Engineering**
+# 🛡️ Ahmed Roshdi | Strategic Systems Architect
 
-I approach infrastructure and system design through Systems Thinking, focusing on building robust, sovereign architectures from first principles. My current research and development revolve around deep kernel vulnerability hunting, offensive security, and low-level systems programming.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Systems+Architect;Security+Researcher;Linux+Kernel+Enthusiast;Low-Level+Developer" alt="Typing SVG" />
+</p>
 
-### ⚙️ Current Focus: Self-Directed Curriculum
-Designing and executing a rigorous, multi-layered curriculum focused on OS Internals and Security:
-- **Layer 1:** Computer Architecture & Low-Level Programming (C, Assembly)
-- **Layer 2:** Operating Systems Design & Concepts
-- **Layer 3:** Linux Kernel Internals & System Administration
-- **Layer 4:** Vulnerability Research & Offensive Security Methodologies
+---
 
-### 🛠️ Technical Stack
-- **Low-Level & Systems:** C, Assembly, Bash, Shell Scripting
-- **OS & Architecture:** Linux Kernel, Operating Systems, Systems Architecture
-- **Security:** Offensive Security, Vulnerability Research, Exploit Development, Debugging
-- **Methodology:** Systems Thinking, First Principles Design
+### 🚀 About Me
+I approach infrastructure and system design through **Systems Thinking**, focusing on building robust, sovereign architectures from first principles. My mission is to master the depths of the Linux Kernel and contribute to the security of the digital world through deep vulnerability research and offensive security methodologies.
+
+---
+
+### 📊 GitHub Stats & Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Roshdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+</p>
+
+---
+
+### 🏗️ Curriculum Architecture (The 4-Layer Mastery)
+Below is the structural representation of my self-directed curriculum, designed for deep mastery of OS Internals and Security.
+
+```mermaid
+graph TD
+    subgraph "Sovereign Systems Engineering & Security Curriculum"
+    A[Ahmed Roshdi: Strategic Systems Architect] --> B{The 4-Layer Mastery}
+    
+    B --> L1[Layer 1: Foundations]
+    L1 --> L1_1[Computer Architecture]
+    L1 --> L1_2[Low-Level Programming: C & Assembly]
+    L1 --> L1_3[Memory Management & CPU Internals]
+    
+    B --> L2[Layer 2: OS Design]
+    L2 --> L2_1[Process Scheduling]
+    L2 --> L2_2[Virtual Memory & Paging]
+    L2 --> L2_3[File Systems & I/O Management]
+    
+    B --> L3[Layer 3: Linux Kernel]
+    L3 --> L3_1[Kernel Internals & Modules]
+    L3 --> L3_2[System Calls & Interrupts]
+    L3 --> L3_3[Device Drivers Development]
+    
+    B --> L4[Layer 4: Offensive Security]
+    L4 --> L4_1[Vulnerability Research]
+    L4 --> L4_2[Binary Analysis & Reverse Engineering]
+    L4 --> L4_3[Exploit Development: User & Kernel Mode]
+    
+    style A fill:#1a1a1a,stroke:#00ff00,stroke-width:4px,color:#fff
+    style B fill:#333,stroke:#00ff00,stroke-width:2px,color:#fff
+    style L1 fill:#222,stroke:#555,color:#ccc
+    style L2 fill:#222,stroke:#555,color:#ccc
+    style L3 fill:#222,stroke:#555,color:#ccc
+    style L4 fill:#222,stroke:#00ff00,color:#fff
+    end
+```
+
+---
 
 ### 🔬 Recent Research & Projects
-- **Low-Level Systems Utilities:** Developing a series of utilities using C and Bash to interact directly with the Linux kernel, focusing on memory management, process scheduling, and system calls.
+- **[Low-Level Systems Utilities](https://github.com/Ahmed-Roshdi/C-Systems-Utilities):** A collection of C and Bash tools designed to interact directly with the Linux kernel, focusing on memory management and system calls.
+- **[Vulnerability Research Lab]:** Ongoing research into user-mode and kernel-mode exploitation techniques.
 
-### 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/ahmed-roshdi)
-- [GitLab](https://gitlab.com/Ahmed-Roshdi) <!-- Do not forget to update your GitLab username here -->
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-roshdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://gitlab.com/Ahmed-Roshdi"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Building robust, sovereign architectures from first principles."</i>
+</p>
