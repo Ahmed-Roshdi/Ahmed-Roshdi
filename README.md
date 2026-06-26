@@ -55,12 +55,17 @@ graph TD
     L4 --> L4_2[Binary Analysis & Reverse Engineering]
     L4 --> L4_3[Exploit Development: User & Kernel Mode]
     
-    style A fill:#1a1a1a,stroke:#00ff00,stroke-width:4px,color:#fff
-    style B fill:#333,stroke:#00ff00,stroke-width:2px,color:#fff
-    style L1 fill:#222,stroke:#555,color:#ccc
-    style L2 fill:#222,stroke:#555,color:#ccc
-    style L3 fill:#222,stroke:#555,color:#ccc
-    style L4 fill:#222,stroke:#00ff00,color:#fff
+    %% Styling for Dark Mode Compatibility
+    style A fill:#0D1117,stroke:#00ff00,stroke-width:4px,color:#00ff00
+    style B fill:#161B22,stroke:#00ff00,stroke-width:2px,color:#fff
+    style L1 fill:#21262D,stroke:#30363D,color:#8B949E
+    style L2 fill:#21262D,stroke:#30363D,color:#8B949E
+    style L3 fill:#21262D,stroke:#30363D,color:#8B949E
+    style L4 fill:#161B22,stroke:#00ff00,stroke-width:2px,color:#00ff00
+    
+    %% Edge Styling
+    linkStyle default stroke:#30363D,stroke-width:1px
+    linkStyle 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14 stroke:#00ff00,stroke-width:2px
     end
 ```
 
