@@ -10,14 +10,14 @@
 I approach infrastructure and system design through **Systems Thinking**, focusing on building robust, sovereign architectures from first principles. My mission is to master the depths of the Linux Kernel and contribute to the security of the digital world through deep vulnerability research and offensive security methodologies.
 
 ---
-
+```
                                                                                 ## #
                          ^                             ^                       # #                      
       ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
   ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
  /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
- 
+```
 ---
 
 ### 📊 GitHub Stats & Skills
