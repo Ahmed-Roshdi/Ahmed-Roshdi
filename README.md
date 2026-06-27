@@ -11,6 +11,14 @@ I approach infrastructure and system design through **Systems Thinking**, focusi
 
 ---
 
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+---
+
 ### 📊 GitHub Stats & Skills
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub Stats" />
