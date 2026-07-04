@@ -10,10 +10,13 @@
 I approach infrastructure and system design through **Systems Thinking**, focusing on building robust, sovereign architectures from first principles. My mission is to master the depths of the Linux Kernel and contribute to the security of the digital world through deep vulnerability research and offensive security methodologies.
 
 ---
-<!-- Animated Systems Architecture Banner -->
+<!-- Animated Systems Architecture Banner with Popcat Secret Egg -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Roshdi/OffSec-Terminal-Forge/main/output/Old-Standerd-Of-Final-Output/magic_readme.webp" alt="Sovereign Systems Terminal Forge" width="100%" />
+  <a href="https://popcat.click/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ahmed-Roshdi/OffSec-Terminal-Forge/main/output/Old-Standerd-Of-Final-Output/magic_readme.webp" alt="Sovereign Systems Terminal Forge" width="100%" />
+  </a>
 </p>
+
 
 ---
 
