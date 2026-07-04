@@ -14,6 +14,7 @@ I approach infrastructure and system design through **Systems Thinking**, focusi
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahmed-Roshdi/OffSec-Terminal-Forge/main/output/Old-Standerd-Of-Final-Output/magic_readme.webp" alt="Sovereign Systems Terminal Forge" width="100%" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats & Skills
