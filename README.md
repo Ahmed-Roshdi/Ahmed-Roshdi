@@ -67,12 +67,12 @@ graph TD
     %% Styling for Dark Mode Compatibility
     style A fill:#0D1117,stroke:#00ff00,stroke-width:4px,color:#00ff00
     style B fill:#161B22,stroke:#00ff00,stroke-width:2px,color:#fff
-    style L1 fill:#21262D,stroke:#30363D,color:#8B949E
+    style L1 fill:#161B22,stroke:#00ff00,stroke-width:2px,color:#00ff00
     style L2 fill:#21262D,stroke:#30363D,color:#8B949E
     style L3 fill:#21262D,stroke:#30363D,color:#8B949E
-    style L4 fill:#161B22,stroke:#00ff00,stroke-width:2px,color:#00ff00
-    
+    style L4 fill:#21262D,stroke:#30363D,color:#8B949E    
     %% Edge Styling
+
     linkStyle default stroke:#30363D,stroke-width:1px
     linkStyle 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14 stroke:#00ff00,stroke-width:2px
     end
